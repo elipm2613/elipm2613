@@ -19,11 +19,11 @@
 
 Apasionado de la tecnología y disfrutando de una transición laboral a QA Engineer <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
+* :telescope: Actualmente estoy realizando el Bootcamp de QA Engineer en Tripleten :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje MYSQL, Python, C, C++.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :heartbeat: Me encanta seguir descubriendo nuevas herramientas de aprendizaje en el campo de la tecnología. 
 
 
 
